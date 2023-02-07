@@ -1,23 +1,25 @@
 {
-  "name": "react-components-lyk",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lyka3156/react-components-lyk.git"
-  },
-  "keywords": [
-    "组件库"
-    "react-components"
- ],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lyka3156/react-components-lyk/issues"
-  },
-  "homepage": "https://github.com/lyka3156/react-components-lyk#readme"
+	"name": "react-components-lyk",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lyka3156/react-components-lyk.git"
+	},
+	"keywords": [
+		"组件库",
+		"react",
+		"component",
+		"react-components"
+	],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/lyka3156/react-components-lyk/issues"
+	},
+	"homepage": "https://github.com/lyka3156/react-components-lyk#readme"
 }
